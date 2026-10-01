@@ -3,7 +3,7 @@
 Models compared:
 
     ddq       DDQ quadrature with the FAX gas optics
-    rrtmgp    RRTMGP with 256 longwave, 224 shortwave goints
+    rrtmgp    RRTMGP with 128 longwave, 112 shortwave goints
     arts      ARTS line-by-line on ~1e5 frequencies, used as the reference
 
 Input files:
